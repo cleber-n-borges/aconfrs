@@ -1,0 +1,10 @@
+[
+	{
+		"dbEngine" : "SQLite",
+		"dbPathSQLite" : "./data/congresso.sqlite",
+		"dbNameMariaDB" : "congresso",
+		"dbUser" : "XXX",
+		"dbPass" : "XXX"
+	}
+]
+

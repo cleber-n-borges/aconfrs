@@ -1,0 +1,13 @@
+.Rhistory
+.gitattributes
+.gitignore
+etc/.gitignore
+www/.gitignore
+aconfrs.RData
+aconfrs.Rproj
+app--COMANDO-RGUI.R
+BUG.R
+DB_aleatorio.R
+rsconnect/
+^.*\.Rproj$
+^\.Rproj\.user$

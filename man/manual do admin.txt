@@ -1,0 +1,14 @@
+
+o software aconfrs tem 3 DB:
+- para participantes
+- para avaliadores
+- para membros das comissões
+
+
+
+
+
+
+
+
+

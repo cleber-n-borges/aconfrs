@@ -1,0 +1,13 @@
+[
+	{
+		"opResultAvalResumo": "O Resumo está: Aprovado"
+	},
+		
+	{
+		"opResultAvalResumo": "O Resumo está: Pendente (Requisitadas Correções Obrigatórias)"
+	},
+		
+	{
+		"opResultAvalResumo": "O Resumo está: Reprovado"
+	}
+]

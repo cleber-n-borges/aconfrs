@@ -1,0 +1,56 @@
+[
+	{
+		"Pergunta": "O trabalho é original e contribui para o conhecimento existente?",
+		"Opção.A": "Sim, o trabalho é original e faz uma contribuição significativa.",
+		"Opção.B": "O trabalho é original, mas a contribuição é limitada.",
+		"Opção.C": "Não, a pesquisa não é original e não contribui para o conhecimento existente."
+	},
+	{
+		"Pergunta": "A metodologia utilizada é adequada para responder às perguntas do trabalho?",
+		"Opção.A": "Sim, a metodologia é adequada e bem descrita.",
+		"Opção.B": "A metodologia pode ser aprimorada ou precisa ser mais detalhada.",
+		"Opção.C": "Não, a metodologia não é adequada para responder às perguntas do trabalho."
+	},
+	{
+		"Pergunta": "Os resultados são apresentados de forma clara e concisa?",
+		"Opção.A": "Sim, os resultados são apresentados de forma clara e facilmente compreensível.",
+		"Opção.B": "Os resultados são apresentados de forma confusa ou pouco claros.",
+		"Opção.C": "Não, os resultados não são apresentados de forma adequada."
+	},
+	{
+		"Pergunta": "As conclusões são suportadas pelos dados apresentados?",
+		"Opção.A": "Sim, as conclusões são bem sustentadas pelos dados.",
+		"Opção.B": "As conclusões podem ser apoiadas com mais dados ou análises.",
+		"Opção.C": "Não, as conclusões não são apoiadas pelos dados apresentados."
+	},
+	{
+		"Pergunta": "A revisão bibliográfica é abrangente e atualizada?",
+		"Opção.A": "Sim, a revisão bibliográfica é abrangente e atualizada.",
+		"Opção.B": "A revisão bibliográfica pode ser expandida ou atualizada.",
+		"Opção.C": "Não, a revisão bibliográfica é inadequada ou desatualizada."
+	},
+	{
+		"Pergunta": "A apresentação do trabalho está bem estruturado e organizado?",
+		"Opção.A": "Sim, a apresentação está bem estruturada e organizada.",
+		"Opção.B": "A estrutura e organização do trabalho podem ser aprimoradas.",
+		"Opção.C": "Não, o artigo está mal estruturado e desorganizado."
+	},
+	{
+		"Pergunta": "As figuras, tabelas e gráficos são claros e relevantes?",
+		"Opção.A": "Sim, as figuras, tabelas e gráficos são claros e relevantes.",
+		"Opção.B": "As figuras, tabelas e gráficos podem ser aprimorados ou adicionados.",
+		"Opção.C": "Não, as figuras, tabelas e gráficos não são claros ou relevantes."
+	},
+	{
+		"Pergunta": "As limitações do estudo são discutidas adequadamente?",
+		"Opção.A": "Sim, as limitações do estudo são discutidas de forma adequada.",
+		"Opção.B": "As limitações do estudo podem ser discutidas com mais detalhes.",
+		"Opção.C": "Não, as limitações do estudo não são adequadamente discutidas."
+	},
+	{
+		"Pergunta": "As referências citadas são relevantes e corretamente formatadas?",
+		"Opção.A": "Sim, as referências são relevantes e corretamente formatadas.",
+		"Opção.B": "Algumas referências podem ser adicionadas ou formatadas corretamente.",
+		"Opção.C": "Não, as referências citadas não estão adequadas."
+	}
+]

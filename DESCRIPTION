@@ -1,0 +1,15 @@
+Package: aconfrs
+Title: Academic Conference Management System
+Version: 0.0.1
+Author: Cleber Borges
+Maintainer: Cleber Borges <cleber.borges@ufla.br>
+Description: Easy and simple for small university congresses
+    In development phase
+    Not yet fully functional
+License: Indefinido
+URL: https://github.com/cleber-n-borges/aconfrs
+Imports: shiny, shinyjs, shinyWidgets, shinyvalidate, sever, DT,
+	pdftools, shinythemes, htmltools, numbersBR, blob, DBI
+Suggests: pool, RSQLite, RMariaDB, jsonlite, bslib, cookies, markdown
+Encoding: UTF-8
+NeedsCompilation: no
