@@ -16,7 +16,7 @@
 			
 				frameborder="0",
 				
-				style="width: 100%; height: 100vmax;", # height: 100vmax; overflow: hidden;",  # height: 100dvh;", 
+				style="width: 100%; height: 100%dvh;", # height: 100vmax;", overflow: hidden;",
 				
 				src ="book/index.html",
             

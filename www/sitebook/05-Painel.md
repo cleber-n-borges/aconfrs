@@ -6,3 +6,12 @@
 \
 \
 
+Informações de como fazer o Painel
+\
+\
+
+## Modelo
+\
+\
+
+

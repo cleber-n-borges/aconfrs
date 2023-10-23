@@ -1,5 +1,5 @@
 --- 
-title: "Congresso"
+title: "Nome do Congresso"
 author: "Promotor do Evento"
 date: "Cidade / Data"
 site: bookdown::bookdown_site
@@ -18,9 +18,11 @@ csl: chicago-fullnote-bibliography.csl
 # Apresentação
 \
 \
-**Visão Geral do Congresso:** Comece a página com uma breve introdução que descreva o que é o congresso, seu tema central e sua importância. Destaque os principais objetivos do evento.
+**Visão Geral do Congresso:** Comece a página com uma breve introdução que descreva o que é o congresso,
+seu tema central e sua importância. Destaque os principais objetivos do evento.
 \
 \
-**Tópicos e Temas Abordados:** Descreva os principais tópicos e temas que serão discutidos no congresso. Isso ajuda os participantes a entender o conteúdo do evento e a relevância para suas áreas de interesse.
+**Tópicos e Temas Abordados:** Descreva os principais tópicos e temas que serão discutidos no congresso.
+Isso ajuda os participantes a entender o conteúdo do evento e a relevância para suas áreas de interesse.
 
 

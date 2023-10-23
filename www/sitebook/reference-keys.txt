@@ -13,8 +13,16 @@ informações
 procedimentos
 painel
 painel-1
+modelo
 resumo
 resumo-1
+modelo-1
 apoio
-cidade
+logotipos-e-links
+a-cidade
+pontos-turísticos
+hospedagem
+alimentação
 outros
+outras-informações
+colocar-mais-páginas-e-evitar-ao-máximo
