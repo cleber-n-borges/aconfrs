@@ -1,13 +1,14 @@
-# Outros
-\
-\
+# Outros Informações 
 
-## Outras informações
-\
-\
+Uma página de "Outras informações relevantes" em um website de um Congresso Científico pode conter informações secundárias que, embora não sejam centrais para o evento, podem ser úteis para os participantes. Aqui estão alguns tipos de conteúdo que essa página pode incluir:
 
-## Colocar mais páginas e evitar ao máximo
-tabelas e figuras que não sejam essenciais
+   
+- Conexão à Internet: Orientações sobre acesso à internet, Wi-Fi e locais com boa conectividade na cidade.
 
+- Idioma: Informações sobre o idioma predominante na região e dicas para a comunicação.
+ 
+- Moeda e Câmbio: Detalhes sobre a moeda local, taxas de câmbio e locais para trocar dinheiro.
+ 
+- Regras Aduaneiras: Informações sobre as regras e regulamentações aduaneiras para viajantes internacionais.
 
-
+Essas informações secundárias podem ser úteis para os participantes, ajudando-os a planejar e aproveitar sua estadia na cidade anfitriã do congresso. Elas complementam as informações essenciais do evento, tornando a experiência mais completa e conveniente.
