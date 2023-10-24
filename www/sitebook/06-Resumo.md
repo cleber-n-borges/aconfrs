@@ -1,4 +1,5 @@
 # Resumo
+\
 
 Para elaborar um resumo de um trabalho científico a ser submetido a um Congresso Científico, siga estas instruções essenciais:
 

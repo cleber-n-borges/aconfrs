@@ -1,4 +1,5 @@
-# Outros Informações 
+# Outras Informações 
+\
 
 Uma página de "Outras informações relevantes" em um website de um Congresso Científico pode conter informações secundárias que, embora não sejam centrais para o evento, podem ser úteis para os participantes. Aqui estão alguns tipos de conteúdo que essa página pode incluir:
 

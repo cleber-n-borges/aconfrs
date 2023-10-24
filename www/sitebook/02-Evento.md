@@ -1,6 +1,7 @@
 # Programação
 \
-\
+
+
 **Programação:** Apresente um programa completo, com detalhes sobre os dias e horários das sessões, palestrantes, workshops e outras atividades planejadas. Se houver eventos sociais ou de networking, inclua essas informações também.
 \
 

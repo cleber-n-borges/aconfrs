@@ -1,5 +1,5 @@
-# Painel 
-
+# Painel
+\
 
 Para criar um painel (ou banner) com o resumo do trabalho científico a ser apresentado na sessão de painéis de um Congresso Científico, siga estas instruções essenciais:
 

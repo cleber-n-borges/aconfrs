@@ -16,4 +16,4 @@ resumo
 modelo-1
 apoio
 a-cidade
-outros-informações
+outras-informações
