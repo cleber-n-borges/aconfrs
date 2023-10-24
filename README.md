@@ -20,9 +20,9 @@ For now:
 - In development phase[^1]
 - Not yet fully functional
 - R package not implemented
-- This version can be tested locally with the R command: `shiny::runGitHub('cleber-n-borges/aconfrs')`
-- It is also possible to run the app via [Docker] (address:3838/aconfrs-main/): `docker pull cleber0n0borges/aconfrs`
-- Take a live test immediately on the [shinyapps.io] website
+- This version can be tested locally with the R command: `shiny::runGitHub('cleber-n-borges/aconfrs')` [^2]
+- It is also possible to run the app via [Docker] (server:3838/aconfrs-main/): `docker pull cleber0n0borges/aconfrs` [^3]
+- Take a online test immediately on the [shinyapps.io] website [^4]
 
 [shinyapps.io]: https://quimiometria.shinyapps.io/aconfrs/
 
@@ -88,6 +88,9 @@ cat(paste0("\n\n\n*** Pacotes perdidos: ", length(lost.packages), " : ", lost.pa
 
 
 [^1]: Project started in mid-2023 
+[^2]: GitHub: https://github.com/cleber-n-borges/aconfrs
+[^3]: DockerHub: https://hub.docker.com/u/cleber0n0borges
+[^4]: shinyapps.io: https://quimiometria.shinyapps.io/aconfrs/
 
 <!-- Comentários -->
 

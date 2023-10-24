@@ -17,9 +17,9 @@ Por enquanto:
 - Em fase de desenvolvimento[^1]
 - Ainda não totalmente funcional
 - Pacote R não implementado
-- Esta versão pode ser testada localmente com o comando R: `shiny::runGitHub('cleber-n-borges/aconfrs')`
-- Também é possível executar o aplicativo via [Docker] (endereço:3838/aconfrs-main/): `docker pull cleber0n0borges/aconfrs`
-- Faça um teste ao vivo imediatamente no site [shinyapps.io]
+- Esta versão pode ser testada localmente com o comando R: `shiny::runGitHub('cleber-n-borges/aconfrs')`[^2]
+- Também é possível executar o aplicativo via [Docker] (server:3838/aconfrs-main/): `docker pull cleber0n0borges/aconfrs`[^3]
+- Faça um teste online imediatamente no portal [shinyapps.io] [^4]
 
 [shinyapps.io]: https://quimiometria.shinyapps.io/aconfrs/
 
@@ -28,6 +28,9 @@ Por enquanto:
 ---
 
 [^1]: Projeto iniciado em meados de 2023
+[^2]: GitHub: https://github.com/cleber-n-borges/aconfrs
+[^3]: DockerHub: https://hub.docker.com/u/cleber0n0borges
+[^4]: shinyapps.io: https://quimiometria.shinyapps.io/aconfrs/
 
 
 <!-- Comentários -->
