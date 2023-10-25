@@ -16,9 +16,10 @@
 			
 				frameborder="0",
 				
-				style="width: 100%; height: 100%dvh;", # height: 100vmax;", overflow: hidden;",
+				style="width: 100%; height: 100%dvh; ", # height: 100vmax;", overflow: hidden;",
 				
 				src="book/index.html",
+				
             
 				onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';"
 				
