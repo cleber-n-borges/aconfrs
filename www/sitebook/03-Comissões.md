@@ -2,15 +2,11 @@
 \
 
 ## Comissão Organizadora e Comissão Científica
-\
-
 
 A Comissão Organizadora é responsável pela logística e administração do evento, incluindo planejamento, registro de participantes e acomodações. A Comissão Científica, por sua vez, avalia e seleciona o conteúdo acadêmico a ser apresentado no congresso, garantindo a qualidade e relevância das contribuições científicas. Enquanto a primeira se concentra na gestão do evento, a segunda prioriza a excelência acadêmica. Ambas são essenciais para o sucesso de um Congresso Científico, atuando em áreas diferentes, mas complementares.
 \
 
 ## Comissão Organizadora
-\
-
 
 A Comissão Organizadora de um Congresso Científico desempenha um papel crucial na preparação, planejamento e execução bem-sucedida do evento. Suas funções variam, mas geralmente incluem o seguinte:
 
@@ -38,7 +34,6 @@ A Comissão Organizadora desempenha um papel fundamental na criação de um ambi
 \
 
 ## Comissão Científica
-
 
 A Comissão Científica de um Congresso Científico desempenha um papel crucial na avaliação e seleção de conteúdo acadêmico de alta qualidade que será apresentado no evento. Suas funções incluem:
 
