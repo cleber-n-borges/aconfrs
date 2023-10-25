@@ -313,7 +313,27 @@
                 
                 div( id="panelQuadroAvalSub01", style="display: none;",
             
-                    htmlOutput( "labQuadroAval01" ),
+                    htmlOutput( "labTableAval01" ),
+                    htmlOutput( "labTableAval02" ),
+                    htmlOutput( "labTableAval03" ),
+                    
+                    br(),
+                    
+                    wellPanel(
+                    
+                        actionButton( "butAtualizaTableAval", "Atualizar a Tabela 2: Avaliadores Disponíveis",
+                            icon( name="refresh", lib="glyphicon" ), width='100%'
+                        )
+                    
+                    ),
+                    
+                    wellPanel( br(),
+                    
+                        wellPanel( br(), dataTableOutput('tableAval') )
+                    
+                    ),
+                    
+                    br(),
     
                     br(),br(),br(),br(),br(),br() 
                     

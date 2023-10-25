@@ -133,6 +133,45 @@
 	}
 
 
+    funcGetAvalDB2table <- function(){
+
+        #####################################################################
+        #                                                                   #
+        #   Criação da Tabela de Avaliadores (dentro de Cadastramento)      #
+        #                                                                   #
+        #####################################################################
+        
+        # Tabela de Avaliadores
+        
+        sql <- "SELECT nome,subAreaAval FROM avaliadoresTable"
+        dataShowAval <- dbGetQuery( conDB, sql )
+        
+        tableAvaliadores <-  datatable( data = dataShowAval,
+        
+            filter    = "top",
+            options   = list( pageLength = 5, autoWidth = TRUE, language = dtBR ),
+            style     = "bootstrap4",
+            rownames  = FALSE,
+            colnames  = c(" Nome "," Área "),
+            selection = "single",
+            caption   = 'Tabela 2: Avaliadores Disponíveis.'
+    
+        )
+        
+        # Renderiza a Tabela 2 na tela
+        output$tableAval <- renderDataTable({ tableAvaliadores })
+        
+        return( dataShowAval )
+
+    }
+
+
+
+
+
+
+
+
 
 
 

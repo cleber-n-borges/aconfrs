@@ -5,7 +5,7 @@
     #                                                           #
     #############################################################
     
-    ##    UI Cadastrador: Passo 1 - Cadastramento: Membros de Comissão, Avaliadores, Convidados e Outros
+    ##    UI Cadastrador: Passo 1A - Informações Básicas do Integrante 
 
     labInfoCadInteg01 <- "Cadastramento: Permite cadastrar participações diversas no evento tais como:"
     output$labInfoCadInteg01 <- renderText({ fmTip( labInfoCadInteg01 ) })
@@ -34,7 +34,7 @@
     labInstitInteg <- "Instituição: Preenchimento opcional (máx.: 200 caracteres)"
     output$labInstitInteg <- renderText({ fmTip( labInstitInteg ) })
     
-    ##    UI Cadastrador: Passo 2 - Particularidades do Integrante para o Evento
+    ##    UI Cadastrador: Passo 2A - Particularidades do Integrante para o Evento
 
     labCadParticular01 <- "Define o cadastro das funções do Integrante"
     output$labCadParticular01 <- renderText({ fmTip( labCadParticular01 ) })
@@ -86,3 +86,34 @@
 
     labButCadInfo02 <- 'Cadastrar: As informações constarão nos devidos Bancos de Dados'
     output$labButCadInfo02 <- renderText({ fmTip( labButCadInfo02 ) })
+
+    ##    UI Cadastrador: Passo 1B - Particularidades do Integrante para o Evento
+
+    labTableAval01 <- 'X X X'
+    output$labTableAval01 <- renderText({ fmTip( labTableAval01 ) })
+
+    labTableAval02 <- 'Y Y Y'
+    output$labTableAval02 <- renderText({ fmTip( labTableAval02 ) })
+
+    labTableAval03 <- 'W W W'
+    output$labTableAval03 <- renderText({ fmTip( labTableAval03 ) })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
