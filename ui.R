@@ -25,9 +25,9 @@ ui <- function( req ){
     
             # Tags informativas
             tags$meta( "name"="author", "content"="Cleber Nogueira Borges" ),
-            tags$meta( "name"="application-name", "content"="Conference Management System" ),
-            tags$meta( "name"="description", "content"="R Shiny Academic Conference Management System" ),
-            tags$meta( "name"="keywords", "content"="R Package, Shiny App, CMS, Academic" ),
+            tags$meta( "name"="application-name", "content"="aconfrs" ),
+            tags$meta( "name"="description", "content"="Gerenciamento de Congresso Científico feito em R/Shiny" ),
+            tags$meta( "name"="keywords", "content"="R Package, Shiny App, Cientific Conference" ),
             tags$meta( "name"="robots", "content"="noindex, nofollow, noarchive" ),
             
             #tags$style( headerSUS ), #headerSUS está definido em "global.R"
