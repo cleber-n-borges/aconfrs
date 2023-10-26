@@ -58,7 +58,7 @@
     #                                                           #
     #############################################################
     
-    # Chama a função: "getDataDB2table" para Criação da Tabela 1
+    # Chama a função: "funcGetAvalDB2table" para Criação da Tabela 1
     assign( "dataShowAval", funcGetAvalDB2table(), env=envCadast )
 
     #############################################################

@@ -129,6 +129,9 @@
 		# aba 1-Software
 		updateCheckboxInput( inputId='checkTemFunSoftware', value=FALSE )
 		
+		# Chama a função: "funcGetAvalDB2table" para atualizar a Tabela 2
+		assign( "dataShowAval", funcGetAvalDB2table(), env=envCadast )
+		
 
 	}
 
@@ -142,8 +145,9 @@
         #####################################################################
         
         # Tabela de Avaliadores
+		# "nome" "cpf" "senha" "email" "cracha" "afiliaInstit" "subAreaAval" "palavChavAreaAval"
         
-        sql <- "SELECT nome,subAreaAval FROM avaliadoresTable"
+        sql <- "SELECT nome,email,subAreaAval,afiliaInstit,palavChavAreaAval FROM avaliadoresTable"
         dataShowAval <- dbGetQuery( conDB, sql )
         
         tableAvaliadores <-  datatable( data = dataShowAval,
@@ -152,7 +156,7 @@
             options   = list( pageLength = 5, autoWidth = TRUE, language = dtBR ),
             style     = "bootstrap4",
             rownames  = FALSE,
-            colnames  = c(" Nome "," Área "),
+            colnames  = c(" Nome "," e-mail ", " Área ", " Instituição ", " Palavra-Chave "),
             selection = "single",
             caption   = 'Tabela 2: Avaliadores Disponíveis.'
     
@@ -170,7 +174,8 @@
 
 
 
-
+# EDitar e deletar:  Editar = voltar os dados para Parte 1
+# COlocar informação de que a Edição deleta e portanto EXIGE salvar Informação
 
 
 

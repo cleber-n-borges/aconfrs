@@ -319,13 +319,13 @@
                     
                     br(),
                     
-                    wellPanel(
-                    
-                        actionButton( "butAtualizaTableAval", "Atualizar a Tabela 2: Avaliadores Disponíveis",
-                            icon( name="refresh", lib="glyphicon" ), width='100%'
-                        )
-                    
-                    ),
+                    # wellPanel(
+                    # 
+                    #     actionButton( "butAtualizaTableAval", "Atualizar a Tabela 2: Avaliadores Disponíveis",
+                    #         icon( name="refresh", lib="glyphicon" ), width='100%'
+                    #     )
+                    # 
+                    # ),
                     
                     wellPanel( br(),
                     
