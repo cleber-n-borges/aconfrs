@@ -2,7 +2,7 @@
 
 # FAQ - Frequently Asked Questions
 
-### Perguntas Feitas Frequentemente
+### Perguntas Frequentes
 
 </center>
 

@@ -26,7 +26,7 @@ ui <- function( req ){
             # Tags informativas
             tags$meta( "name"="author", "content"="Cleber Nogueira Borges" ),
             tags$meta( "name"="application-name", "content"="aconfrs" ),
-            tags$meta( "name"="description", "content"="Gerenciamento de Congresso Científico feito em R/Shiny" ),
+            tags$meta( "name"="description", "content"="Plataforma WEB feita em R & Shiny" ),
             tags$meta( "name"="keywords", "content"="R Package, Shiny App, Cientific Conference" ),
             tags$meta( "name"="robots", "content"="noindex, nofollow, noarchive" ),
             
@@ -37,10 +37,6 @@ ui <- function( req ){
             tags$link( id="theme", rel="stylesheet", href="css/bootstrap.min.css" )
         
         ),
-        
-        ##################
-        #mythemeSelector(),
-        ##################
     
         fluidPage( column( width = 8, offset=2,
         
