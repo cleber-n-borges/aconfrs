@@ -8,9 +8,7 @@ bibliography: [book.bib, packages.bib]
 # url: your book url like https://congresso.com.br
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::bs4_book,
-  set in the _output.yml file.
+  This is a minimal example of using the bookdown package to write a site/book.
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
